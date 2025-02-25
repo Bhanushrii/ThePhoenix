@@ -1,0 +1,8 @@
+/* Force Clerk modal to be larger */
+.cl-cardBox, .cl-card,.c1-footer {
+    width: 600px !important;
+    height: 600px !important;
+    max-width: none !important;
+    max-height: none !important;
+    
+}
